@@ -1,2 +1,2 @@
 # GameEEG.github.io
-Game EEG Research
+Game and EEG - Research
